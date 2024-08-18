@@ -12,8 +12,8 @@ const Navbar = ({ item1, item2 }) => {
       <div className="flex flex-row justify-between items-center px-4 md:px-8 py-2">
         <div className="relative w-32 md:w-40 aspect-video">
           <img
-            src="https://magnumopuscareer.com/wp-content/uploads/2024/05/magnum_opus_career_logo-1.png"
-            alt="Magnum Opus Career logo"
+            src="http://159.89.171.26/wp-content/uploads/2024/07/imageedit_1_3361718108.png"
+            alt="Caderaedu logo"
             layout="fill"
             className="object-contain"
           />
